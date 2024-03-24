@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|c:\\users\\zver\\source\\repos\\maze_play\\maze_play\\verticalobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|solutionrelative:maze_play\\verticalobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|c:\\users\\zver\\source\\repos\\maze_play\\maze_play\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|solutionrelative:maze_play\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|c:\\users\\zver\\source\\repos\\maze_play\\maze_play\\smartenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|solutionrelative:maze_play\\smartenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|c:\\users\\zver\\source\\repos\\maze_play\\maze_play\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|solutionrelative:maze_play\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|c:\\users\\zver\\source\\repos\\maze_play\\maze_play\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|solutionrelative:maze_play\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|c:\\users\\zver\\source\\repos\\maze_play\\maze_play\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|solutionrelative:maze_play\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|c:\\users\\zver\\source\\repos\\maze_play\\maze_play\\consolerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4498BA47-63F4-4CB9-BE66-390BFF726713}|Maze_Play\\Maze_Play.csproj|solutionrelative:maze_play\\consolerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerticalObstacle.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\VerticalObstacle.cs",
+              "RelativeDocumentMoniker": "Maze_Play\\VerticalObstacle.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\VerticalObstacle.cs",
+              "RelativeToolTip": "Maze_Play\\VerticalObstacle.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:58:40.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\Unit.cs",
+              "RelativeDocumentMoniker": "Maze_Play\\Unit.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\Unit.cs",
+              "RelativeToolTip": "Maze_Play\\Unit.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:58:05.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\SmartEnemy.cs",
+              "RelativeDocumentMoniker": "Maze_Play\\SmartEnemy.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\SmartEnemy.cs",
+              "RelativeToolTip": "Maze_Play\\SmartEnemy.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:57:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\Program.cs",
+              "RelativeDocumentMoniker": "Maze_Play\\Program.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\Program.cs",
+              "RelativeToolTip": "Maze_Play\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:57:29.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\Player.cs",
+              "RelativeDocumentMoniker": "Maze_Play\\Player.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\Player.cs",
+              "RelativeToolTip": "Maze_Play\\Player.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:57:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\Node.cs",
+              "RelativeDocumentMoniker": "Maze_Play\\Node.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\Node.cs",
+              "RelativeToolTip": "Maze_Play\\Node.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:56:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\ConsoleRenderer.cs",
+              "RelativeDocumentMoniker": "Maze_Play\\ConsoleRenderer.cs",
+              "ToolTip": "C:\\Users\\Zver\\source\\repos\\Maze_Play\\Maze_Play\\ConsoleRenderer.cs",
+              "RelativeToolTip": "Maze_Play\\ConsoleRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:56:21.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

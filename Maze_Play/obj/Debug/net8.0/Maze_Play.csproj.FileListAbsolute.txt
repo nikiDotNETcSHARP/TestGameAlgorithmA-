@@ -1,0 +1,14 @@
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\bin\Debug\net8.0\Maze_Play.exe
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\bin\Debug\net8.0\Maze_Play.deps.json
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\bin\Debug\net8.0\Maze_Play.runtimeconfig.json
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\bin\Debug\net8.0\Maze_Play.dll
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\bin\Debug\net8.0\Maze_Play.pdb
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\Maze_Play.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\Maze_Play.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\Maze_Play.AssemblyInfo.cs
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\Maze_Play.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\Maze_Play.dll
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\refint\Maze_Play.dll
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\Maze_Play.pdb
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\Maze_Play.genruntimeconfig.cache
+C:\Users\Zver\source\repos\Maze_Play\Maze_Play\obj\Debug\net8.0\ref\Maze_Play.dll
